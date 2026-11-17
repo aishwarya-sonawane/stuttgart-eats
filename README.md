@@ -27,7 +27,7 @@ All personally visited or thoroughly researched. Ratings from Google Maps (early
 ## Run Locally
 
 ```bash
-git clone https://github.com/aishwaryasanjaysonawane-a11y/stuttgart-eats.git
+git clone https://github.com/aishwarya-sonawane/stuttgart-eats.git
 cd stuttgart-eats
 pip install -r requirements.txt
 streamlit run app.py
@@ -40,4 +40,4 @@ Open an issue or PR. Include: name, cuisine, area, price range, rating, and your
 ## Author
 
 **Aishwarya Sonawane** — Indian student in Stuttgart trying to eat well on a budget.  
-[Portfolio](https://aishwaryasanjaysonawane-a11y.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/aishwarya-sonawane)
+[Portfolio](https://aishwarya-sonawane.vercel.app) · [LinkedIn](https://www.linkedin.com/in/aishwarya-s18) · [GitHub](https://github.com/aishwarya-sonawane)
